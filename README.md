@@ -2,6 +2,9 @@
 
 http://10.1.31.15:13106/
 
+
+### The video is avaliable at:                                  📫
+https://www.youtube.com/channel/UCjeCL79ikyn7CbDejozJPbw/videos
 <!--
 **legalasst/legalasst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
