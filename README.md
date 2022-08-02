@@ -1,4 +1,6 @@
-### Hi there 👋
+### Visit the LeaglAsst websit by clicking the link below:     👋
+
+http://10.1.31.15:13106/
 
 <!--
 **legalasst/legalasst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
