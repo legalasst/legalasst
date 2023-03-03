@@ -1,6 +1,6 @@
 ### Visit the LeaglAsst websit by clicking the link below:     👋
 
-49.233.9.24:1000
+[49.233.9.24:1000](49.233.9.24:1000)
 
 
 ### The video is avaliable at:                                  📫
