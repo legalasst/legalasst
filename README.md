@@ -1,10 +1,11 @@
-### Visit the LeaglAsst websit by clicking the link below:     👋
+### Visit the LeaglAsst websit by deploying the project:     👋
 
-49.233.9.24:1000
-
+according to the documentation：LegalAsst operation instructions.md
 
 ### The video is avaliable at:                                  📫
+
 https://www.youtube.com/channel/UCjeCL79ikyn7CbDejozJPbw/videos
+
 <!--
 **legalasst/legalasst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
