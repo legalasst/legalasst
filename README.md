@@ -1,6 +1,6 @@
 ### Visit the LeaglAsst websit by deploying the project:     👋
 
-according to the documentation：LegalAsst operation instructions.md
+ Please refer to [LegalAsst operation instructions.md](https://github.com/legalasst/legalasst/blob/main/LegalAsst%20operation%20instructions.md) to download and install Legalasst system.
 
 ### The video is avaliable at:                                  📫
 
